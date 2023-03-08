@@ -1,0 +1,310 @@
+2023-02-23 16:57:10,684 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "android", "appium:platformVersion": "5.1.1", "appium:deviceName": "test103", "appium:automationName": "UiAutomator1", "appium:appPackage": "me.onehome.app", "appium:appActivity": "me.onehome.app.activity.ActivityGuide"}]}, "desiredCapabilities": {"platformName": "android", "platformVersion": "5.1.1", "deviceName": "test103", "automationName": "UiAutomator1", "appPackage": "me.onehome.app", "appActivity": "me.onehome.app.activity.ActivityGuide"}}
+2023-02-23 16:57:18,323 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:18,331 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2/timeouts {"implicit": 30000}
+2023-02-23 16:57:18,337 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:18,337 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2/element {"using": "id", "value": "me.onehome.app:id/tv_agree"}
+2023-02-23 16:57:26,663 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:26,664 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2/element/1/click {"id": "1"}
+2023-02-23 16:57:29,785 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:29,786 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2/element {"using": "-android uiautomator", "value": "text(\"\u7acb\u5373\u5f00\u542f\")"}
+2023-02-23 16:57:29,794 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:29,794 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2/element/2/click {"id": "2"}
+2023-02-23 16:57:30,516 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:30,517 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2/element {"using": "-android uiautomator", "value": "text(\"\u6211\u7684\")"}
+2023-02-23 16:57:31,469 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:31,469 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2/element/3/click {"id": "3"}
+2023-02-23 16:57:31,601 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:31,602 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2/element {"using": "id", "value": "me.onehome.app:id/iv_user_head"}
+2023-02-23 16:57:32,196 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:32,196 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2/element/4/click {"id": "4"}
+2023-02-23 16:57:32,533 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:32,534 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2/element {"using": "id", "value": "me.onehome.app:id/rb_pw_login"}
+2023-02-23 16:57:33,149 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:33,149 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2/element/5/click {"id": "5"}
+2023-02-23 16:57:33,280 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:33,280 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2/element {"using": "id", "value": "me.onehome.app:id/et_login_number"}
+2023-02-23 16:57:33,975 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:33,976 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2/element/6/value {"text": "18731333417", "value": ["1", "8", "7", "3", "1", "3", "3", "3", "4", "1", "7"], "id": "6"}
+2023-02-23 16:57:38,576 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:38,576 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2/element {"using": "id", "value": "me.onehome.app:id/et_login_password"}
+2023-02-23 16:57:39,157 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:39,158 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2/element/7/value {"text": "fengxiaodong777", "value": ["f", "e", "n", "g", "x", "i", "a", "o", "d", "o", "n", "g", "7", "7", "7"], "id": "7"}
+2023-02-23 16:57:43,888 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:43,889 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2/element {"using": "class name", "value": "android.widget.CheckBox"}
+2023-02-23 16:57:44,442 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:44,442 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2/element/8/click {"id": "8"}
+2023-02-23 16:57:44,576 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:44,577 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2/element {"using": "id", "value": "me.onehome.app:id/bt_fulfill"}
+2023-02-23 16:57:45,064 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:45,065 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2/element/9/click {"id": "9"}
+2023-02-23 16:57:45,214 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:45,215 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2/element {"using": "id", "value": "me.onehome.app:id/tv_user_name"}
+2023-02-23 16:57:47,005 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:47,005 - remote_connection.py[line:480] - DEBUG: GET http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2/element/10/text {"id": "10"}
+2023-02-23 16:57:47,018 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:47,019 - remote_connection.py[line:480] - DEBUG: GET http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2/screenshot {}
+2023-02-23 16:57:48,427 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:48,428 - login_yi_jia.py[line:66] - DEBUG: say with certainty
+2023-02-23 16:57:51,428 - remote_connection.py[line:480] - DEBUG: DELETE http://127.0.0.1:4723/wd/hub/session/1c6bd47d-f19c-4544-9196-15f974035fc2 {}
+2023-02-23 16:57:53,808 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:57:53,809 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "android", "appium:platformVersion": "5.1.1", "appium:deviceName": "test103", "appium:automationName": "UiAutomator1", "appium:appPackage": "me.onehome.app", "appium:appActivity": "me.onehome.app.activity.ActivityGuide"}]}, "desiredCapabilities": {"platformName": "android", "platformVersion": "5.1.1", "deviceName": "test103", "automationName": "UiAutomator1", "appPackage": "me.onehome.app", "appActivity": "me.onehome.app.activity.ActivityGuide"}}
+2023-02-23 16:58:01,454 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:01,455 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b/timeouts {"implicit": 30000}
+2023-02-23 16:58:01,460 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:01,461 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b/element {"using": "id", "value": "me.onehome.app:id/tv_agree"}
+2023-02-23 16:58:09,729 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:09,729 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b/element/1/click {"id": "1"}
+2023-02-23 16:58:12,847 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:12,847 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b/element {"using": "-android uiautomator", "value": "text(\"\u7acb\u5373\u5f00\u542f\")"}
+2023-02-23 16:58:12,857 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:12,857 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b/element/2/click {"id": "2"}
+2023-02-23 16:58:13,571 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:13,571 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b/element {"using": "-android uiautomator", "value": "text(\"\u6211\u7684\")"}
+2023-02-23 16:58:14,588 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:14,588 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b/element/3/click {"id": "3"}
+2023-02-23 16:58:14,748 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:14,748 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b/element {"using": "id", "value": "me.onehome.app:id/iv_user_head"}
+2023-02-23 16:58:15,353 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:15,354 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b/element/4/click {"id": "4"}
+2023-02-23 16:58:15,683 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:15,683 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b/element {"using": "id", "value": "me.onehome.app:id/rb_pw_login"}
+2023-02-23 16:58:16,296 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:16,296 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b/element/5/click {"id": "5"}
+2023-02-23 16:58:16,429 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:16,429 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b/element {"using": "id", "value": "me.onehome.app:id/et_login_number"}
+2023-02-23 16:58:17,117 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:17,117 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b/element/6/value {"text": "18731333417", "value": ["1", "8", "7", "3", "1", "3", "3", "3", "4", "1", "7"], "id": "6"}
+2023-02-23 16:58:21,734 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:21,734 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b/element {"using": "id", "value": "me.onehome.app:id/et_login_password"}
+2023-02-23 16:58:22,313 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:22,314 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b/element/7/value {"text": "fengxiaodong777", "value": ["f", "e", "n", "g", "x", "i", "a", "o", "d", "o", "n", "g", "7", "7", "7"], "id": "7"}
+2023-02-23 16:58:27,038 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:27,039 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b/element {"using": "class name", "value": "android.widget.CheckBox"}
+2023-02-23 16:58:27,602 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:27,603 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b/element/8/click {"id": "8"}
+2023-02-23 16:58:27,741 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:27,741 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b/element {"using": "id", "value": "me.onehome.app:id/bt_fulfill"}
+2023-02-23 16:58:28,226 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:28,227 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b/element/9/click {"id": "9"}
+2023-02-23 16:58:28,380 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:28,380 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b/element {"using": "id", "value": "me.onehome.app:id/tv_user_name"}
+2023-02-23 16:58:30,025 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:30,026 - remote_connection.py[line:480] - DEBUG: GET http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b/element/10/text {"id": "10"}
+2023-02-23 16:58:30,037 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:30,037 - remote_connection.py[line:480] - DEBUG: GET http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b/screenshot {}
+2023-02-23 16:58:31,483 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 16:58:31,484 - login_yi_jia.py[line:66] - DEBUG: say with certainty
+2023-02-23 16:58:34,485 - remote_connection.py[line:480] - DEBUG: DELETE http://127.0.0.1:4723/wd/hub/session/3ec0e1af-e855-43e8-b656-0e4faa4e165b {}
+2023-02-23 16:58:36,917 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 18:00:43,747 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "android", "appium:platformVersion": "5.1.1", "appium:deviceName": "test103", "appium:automationName": "UiAutomator1", "appium:appPackage": "me.onehome.app", "appium:appActivity": "me.onehome.app.activity.ActivityGuide"}]}, "desiredCapabilities": {"platformName": "android", "platformVersion": "5.1.1", "deviceName": "test103", "automationName": "UiAutomator1", "appPackage": "me.onehome.app", "appActivity": "me.onehome.app.activity.ActivityGuide"}}
+2023-02-23 18:00:51,635 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 18:00:54,636 - remote_connection.py[line:480] - DEBUG: DELETE http://127.0.0.1:4723/wd/hub/session/4835de4b-cb21-4960-bcf8-e0427c735408 {}
+2023-02-23 18:00:56,948 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 18:00:56,950 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "android", "appium:platformVersion": "5.1.1", "appium:deviceName": "test103", "appium:automationName": "UiAutomator1", "appium:appPackage": "me.onehome.app", "appium:appActivity": "me.onehome.app.activity.ActivityGuide"}]}, "desiredCapabilities": {"platformName": "android", "platformVersion": "5.1.1", "deviceName": "test103", "automationName": "UiAutomator1", "appPackage": "me.onehome.app", "appActivity": "me.onehome.app.activity.ActivityGuide"}}
+2023-02-23 18:01:04,724 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 18:01:07,725 - remote_connection.py[line:480] - DEBUG: DELETE http://127.0.0.1:4723/wd/hub/session/b5f99792-a068-48df-b867-634fdd1ebbe9 {}
+2023-02-23 18:01:10,137 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 18:03:49,169 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "android", "appium:platformVersion": "5.1.1", "appium:deviceName": "test103", "appium:automationName": "UiAutomator1", "appium:appPackage": "me.onehome.app", "appium:appActivity": "me.onehome.app.activity.ActivityGuide"}]}, "desiredCapabilities": {"platformName": "android", "platformVersion": "5.1.1", "deviceName": "test103", "automationName": "UiAutomator1", "appPackage": "me.onehome.app", "appActivity": "me.onehome.app.activity.ActivityGuide"}}
+2023-02-23 18:03:56,771 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 18:03:59,772 - remote_connection.py[line:480] - DEBUG: DELETE http://127.0.0.1:4723/wd/hub/session/b186c891-07d2-45cf-a574-3fadd096aa42 {}
+2023-02-23 18:04:02,125 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 18:04:02,128 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "android", "appium:platformVersion": "5.1.1", "appium:deviceName": "test103", "appium:automationName": "UiAutomator1", "appium:appPackage": "me.onehome.app", "appium:appActivity": "me.onehome.app.activity.ActivityGuide"}]}, "desiredCapabilities": {"platformName": "android", "platformVersion": "5.1.1", "deviceName": "test103", "automationName": "UiAutomator1", "appPackage": "me.onehome.app", "appActivity": "me.onehome.app.activity.ActivityGuide"}}
+2023-02-23 18:04:09,960 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-23 18:04:12,960 - remote_connection.py[line:480] - DEBUG: DELETE http://127.0.0.1:4723/wd/hub/session/abe5c7a2-457a-4ac4-8306-346d0d63b15e {}
+2023-02-23 18:04:15,298 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:01:23,507 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "android", "appium:platformVersion": "5.1.1", "appium:deviceName": "test103", "appium:automationName": "UiAutomator1", "appium:appPackage": "me.onehome.app", "appium:appActivity": "me.onehome.app.activity.ActivityGuide"}]}, "desiredCapabilities": {"platformName": "android", "platformVersion": "5.1.1", "deviceName": "test103", "automationName": "UiAutomator1", "appPackage": "me.onehome.app", "appActivity": "me.onehome.app.activity.ActivityGuide"}}
+2023-02-25 13:01:34,898 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:01:34,898 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0/timeouts {"implicit": 30000}
+2023-02-25 13:01:34,921 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:01:34,922 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0/element {"using": "id", "value": "me.onehome.app:id/tv_agree"}
+2023-02-25 13:01:43,141 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:01:43,141 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0/element/1/click {"id": "1"}
+2023-02-25 13:01:46,258 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:01:46,259 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0/element {"using": "-android uiautomator", "value": "text(\"\u7acb\u5373\u5f00\u542f\")"}
+2023-02-25 13:01:46,267 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:01:46,268 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0/element/2/click {"id": "2"}
+2023-02-25 13:01:46,872 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:01:46,873 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0/element {"using": "-android uiautomator", "value": "text(\"\u6211\u7684\")"}
+2023-02-25 13:01:47,772 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:01:47,772 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0/element/3/click {"id": "3"}
+2023-02-25 13:01:48,025 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:01:48,025 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0/element {"using": "id", "value": "me.onehome.app:id/iv_user_head"}
+2023-02-25 13:01:48,611 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:01:48,611 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0/element/4/click {"id": "4"}
+2023-02-25 13:01:48,924 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:01:48,924 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0/element {"using": "id", "value": "me.onehome.app:id/rb_pw_login"}
+2023-02-25 13:01:49,444 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:01:49,445 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0/element/5/click {"id": "5"}
+2023-02-25 13:01:49,573 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:01:49,573 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0/element {"using": "id", "value": "me.onehome.app:id/et_login_number"}
+2023-02-25 13:01:50,273 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:01:50,273 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0/element/6/value {"text": "18731333417", "value": ["1", "8", "7", "3", "1", "3", "3", "3", "4", "1", "7"], "id": "6"}
+2023-02-25 13:01:54,893 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:01:54,894 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0/element {"using": "id", "value": "me.onehome.app:id/et_login_password"}
+2023-02-25 13:01:55,472 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:01:55,473 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0/element/7/value {"text": "fengxiaodong777", "value": ["f", "e", "n", "g", "x", "i", "a", "o", "d", "o", "n", "g", "7", "7", "7"], "id": "7"}
+2023-02-25 13:02:00,643 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:00,643 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0/element {"using": "class name", "value": "android.widget.CheckBox"}
+2023-02-25 13:02:01,208 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:01,208 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0/element/8/click {"id": "8"}
+2023-02-25 13:02:01,326 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:01,326 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0/element {"using": "id", "value": "me.onehome.app:id/bt_fulfill"}
+2023-02-25 13:02:01,847 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:01,847 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0/element/9/click {"id": "9"}
+2023-02-25 13:02:01,992 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:01,992 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0/element {"using": "id", "value": "me.onehome.app:id/tv_user_name"}
+2023-02-25 13:02:03,490 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:03,491 - remote_connection.py[line:480] - DEBUG: GET http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0/element/10/text {"id": "10"}
+2023-02-25 13:02:03,506 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:03,506 - remote_connection.py[line:480] - DEBUG: GET http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0/screenshot {}
+2023-02-25 13:02:04,823 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:04,825 - login_yi_jia.py[line:66] - DEBUG: say with certainty
+2023-02-25 13:02:07,825 - remote_connection.py[line:480] - DEBUG: DELETE http://127.0.0.1:4723/wd/hub/session/7d221b8f-5aa7-42d8-8e51-58fe1d9d81d0 {}
+2023-02-25 13:02:10,137 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:10,138 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "android", "appium:platformVersion": "5.1.1", "appium:deviceName": "test103", "appium:automationName": "UiAutomator1", "appium:appPackage": "me.onehome.app", "appium:appActivity": "me.onehome.app.activity.ActivityGuide"}]}, "desiredCapabilities": {"platformName": "android", "platformVersion": "5.1.1", "deviceName": "test103", "automationName": "UiAutomator1", "appPackage": "me.onehome.app", "appActivity": "me.onehome.app.activity.ActivityGuide"}}
+2023-02-25 13:02:18,053 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:18,054 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9/timeouts {"implicit": 30000}
+2023-02-25 13:02:18,061 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:18,061 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9/element {"using": "id", "value": "me.onehome.app:id/tv_agree"}
+2023-02-25 13:02:26,307 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:26,308 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9/element/1/click {"id": "1"}
+2023-02-25 13:02:29,426 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:29,427 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9/element {"using": "-android uiautomator", "value": "text(\"\u7acb\u5373\u5f00\u542f\")"}
+2023-02-25 13:02:29,436 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:29,436 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9/element/2/click {"id": "2"}
+2023-02-25 13:02:29,975 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:29,976 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9/element {"using": "-android uiautomator", "value": "text(\"\u6211\u7684\")"}
+2023-02-25 13:02:30,688 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:30,688 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9/element/3/click {"id": "3"}
+2023-02-25 13:02:30,944 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:30,945 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9/element {"using": "id", "value": "me.onehome.app:id/iv_user_head"}
+2023-02-25 13:02:31,531 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:31,531 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9/element/4/click {"id": "4"}
+2023-02-25 13:02:31,836 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:31,837 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9/element {"using": "id", "value": "me.onehome.app:id/rb_pw_login"}
+2023-02-25 13:02:32,367 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:32,368 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9/element/5/click {"id": "5"}
+2023-02-25 13:02:32,499 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:32,500 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9/element {"using": "id", "value": "me.onehome.app:id/et_login_number"}
+2023-02-25 13:02:33,206 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:33,207 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9/element/6/value {"text": "18731333417", "value": ["1", "8", "7", "3", "1", "3", "3", "3", "4", "1", "7"], "id": "6"}
+2023-02-25 13:02:38,039 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:38,040 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9/element {"using": "id", "value": "me.onehome.app:id/et_login_password"}
+2023-02-25 13:02:38,616 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:38,617 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9/element/7/value {"text": "fengxiaodong777", "value": ["f", "e", "n", "g", "x", "i", "a", "o", "d", "o", "n", "g", "7", "7", "7"], "id": "7"}
+2023-02-25 13:02:43,393 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:43,394 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9/element {"using": "class name", "value": "android.widget.CheckBox"}
+2023-02-25 13:02:43,947 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:43,947 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9/element/8/click {"id": "8"}
+2023-02-25 13:02:44,086 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:44,086 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9/element {"using": "id", "value": "me.onehome.app:id/bt_fulfill"}
+2023-02-25 13:02:44,572 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:44,573 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9/element/9/click {"id": "9"}
+2023-02-25 13:02:44,724 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:44,725 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9/element {"using": "id", "value": "me.onehome.app:id/tv_user_name"}
+2023-02-25 13:02:45,820 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:45,821 - remote_connection.py[line:480] - DEBUG: GET http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9/element/10/text {"id": "10"}
+2023-02-25 13:02:45,839 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:45,839 - remote_connection.py[line:480] - DEBUG: GET http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9/screenshot {}
+2023-02-25 13:02:47,208 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:02:47,209 - login_yi_jia.py[line:66] - DEBUG: say with certainty
+2023-02-25 13:02:50,210 - remote_connection.py[line:480] - DEBUG: DELETE http://127.0.0.1:4723/wd/hub/session/b220ba22-b2e4-423e-9b06-9c8b9c2f26e9 {}
+2023-02-25 13:02:52,474 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:05:43,448 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "android", "appium:platformVersion": "5.1.1", "appium:deviceName": "test103", "appium:automationName": "UiAutomator1", "appium:appPackage": "me.onehome.app", "appium:appActivity": "me.onehome.app.activity.ActivityGuide"}]}, "desiredCapabilities": {"platformName": "android", "platformVersion": "5.1.1", "deviceName": "test103", "automationName": "UiAutomator1", "appPackage": "me.onehome.app", "appActivity": "me.onehome.app.activity.ActivityGuide"}}
+2023-02-25 13:05:51,269 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:05:51,270 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e/timeouts {"implicit": 30000}
+2023-02-25 13:05:51,276 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:05:51,276 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e/element {"using": "id", "value": "me.onehome.app:id/tv_agree"}
+2023-02-25 13:05:59,527 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:05:59,527 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e/element/1/click {"id": "1"}
+2023-02-25 13:06:02,644 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:02,644 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e/element {"using": "-android uiautomator", "value": "text(\"\u7acb\u5373\u5f00\u542f\")"}
+2023-02-25 13:06:02,653 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:02,653 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e/element/2/click {"id": "2"}
+2023-02-25 13:06:04,171 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:04,172 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e/element {"using": "-android uiautomator", "value": "text(\"\u6211\u7684\")"}
+2023-02-25 13:06:04,939 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:04,939 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e/element/3/click {"id": "3"}
+2023-02-25 13:06:05,111 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:05,111 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e/element {"using": "id", "value": "me.onehome.app:id/iv_user_head"}
+2023-02-25 13:06:06,315 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:06,315 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e/element/4/click {"id": "4"}
+2023-02-25 13:06:06,616 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:06,617 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e/element {"using": "id", "value": "me.onehome.app:id/rb_pw_login"}
+2023-02-25 13:06:07,144 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:07,144 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e/element/5/click {"id": "5"}
+2023-02-25 13:06:07,275 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:07,275 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e/element {"using": "id", "value": "me.onehome.app:id/et_login_number"}
+2023-02-25 13:06:07,995 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:07,996 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e/element/6/value {"text": "18731333417", "value": ["1", "8", "7", "3", "1", "3", "3", "3", "4", "1", "7"], "id": "6"}
+2023-02-25 13:06:12,610 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:12,611 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e/element {"using": "id", "value": "me.onehome.app:id/et_login_password"}
+2023-02-25 13:06:13,189 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:13,190 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e/element/7/value {"text": "fengxiaodong777", "value": ["f", "e", "n", "g", "x", "i", "a", "o", "d", "o", "n", "g", "7", "7", "7"], "id": "7"}
+2023-02-25 13:06:17,901 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:17,901 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e/element {"using": "class name", "value": "android.widget.CheckBox"}
+2023-02-25 13:06:18,459 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:18,459 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e/element/8/click {"id": "8"}
+2023-02-25 13:06:18,604 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:18,605 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e/element {"using": "id", "value": "me.onehome.app:id/bt_fulfill"}
+2023-02-25 13:06:19,088 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:19,089 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e/element/9/click {"id": "9"}
+2023-02-25 13:06:19,242 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:19,242 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e/element {"using": "id", "value": "me.onehome.app:id/tv_user_name"}
+2023-02-25 13:06:21,604 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:21,604 - remote_connection.py[line:480] - DEBUG: GET http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e/element/10/text {"id": "10"}
+2023-02-25 13:06:21,619 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:21,620 - remote_connection.py[line:480] - DEBUG: GET http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e/screenshot {}
+2023-02-25 13:06:23,066 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:23,067 - login_yi_jia.py[line:66] - DEBUG: say with certainty
+2023-02-25 13:06:26,067 - remote_connection.py[line:480] - DEBUG: DELETE http://127.0.0.1:4723/wd/hub/session/52f9705b-d42c-40cd-95fd-42316ab44b7e {}
+2023-02-25 13:06:28,520 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:28,522 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "android", "appium:platformVersion": "5.1.1", "appium:deviceName": "test103", "appium:automationName": "UiAutomator1", "appium:appPackage": "me.onehome.app", "appium:appActivity": "me.onehome.app.activity.ActivityGuide"}]}, "desiredCapabilities": {"platformName": "android", "platformVersion": "5.1.1", "deviceName": "test103", "automationName": "UiAutomator1", "appPackage": "me.onehome.app", "appActivity": "me.onehome.app.activity.ActivityGuide"}}
+2023-02-25 13:06:36,490 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:36,490 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3/timeouts {"implicit": 30000}
+2023-02-25 13:06:36,499 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:36,499 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3/element {"using": "id", "value": "me.onehome.app:id/tv_agree"}
+2023-02-25 13:06:44,777 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:44,777 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3/element/1/click {"id": "1"}
+2023-02-25 13:06:47,903 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:47,904 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3/element {"using": "-android uiautomator", "value": "text(\"\u7acb\u5373\u5f00\u542f\")"}
+2023-02-25 13:06:47,914 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:47,914 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3/element/2/click {"id": "2"}
+2023-02-25 13:06:48,472 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:48,473 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3/element {"using": "-android uiautomator", "value": "text(\"\u6211\u7684\")"}
+2023-02-25 13:06:49,256 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:49,257 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3/element/3/click {"id": "3"}
+2023-02-25 13:06:49,476 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:49,476 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3/element {"using": "id", "value": "me.onehome.app:id/iv_user_head"}
+2023-02-25 13:06:50,485 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:50,485 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3/element/4/click {"id": "4"}
+2023-02-25 13:06:50,781 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:50,782 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3/element {"using": "id", "value": "me.onehome.app:id/rb_pw_login"}
+2023-02-25 13:06:51,308 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:51,308 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3/element/5/click {"id": "5"}
+2023-02-25 13:06:51,440 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:51,441 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3/element {"using": "id", "value": "me.onehome.app:id/et_login_number"}
+2023-02-25 13:06:52,138 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:52,139 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3/element/6/value {"text": "18731333417", "value": ["1", "8", "7", "3", "1", "3", "3", "3", "4", "1", "7"], "id": "6"}
+2023-02-25 13:06:56,797 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:56,797 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3/element {"using": "id", "value": "me.onehome.app:id/et_login_password"}
+2023-02-25 13:06:57,374 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:06:57,375 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3/element/7/value {"text": "fengxiaodong777", "value": ["f", "e", "n", "g", "x", "i", "a", "o", "d", "o", "n", "g", "7", "7", "7"], "id": "7"}
+2023-02-25 13:07:02,118 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:07:02,118 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3/element {"using": "class name", "value": "android.widget.CheckBox"}
+2023-02-25 13:07:02,668 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:07:02,668 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3/element/8/click {"id": "8"}
+2023-02-25 13:07:02,820 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:07:02,821 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3/element {"using": "id", "value": "me.onehome.app:id/bt_fulfill"}
+2023-02-25 13:07:03,310 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:07:03,310 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3/element/9/click {"id": "9"}
+2023-02-25 13:07:03,458 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:07:03,458 - remote_connection.py[line:480] - DEBUG: POST http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3/element {"using": "id", "value": "me.onehome.app:id/tv_user_name"}
+2023-02-25 13:07:04,538 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:07:04,539 - remote_connection.py[line:480] - DEBUG: GET http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3/element/10/text {"id": "10"}
+2023-02-25 13:07:04,581 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:07:04,581 - remote_connection.py[line:480] - DEBUG: GET http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3/screenshot {}
+2023-02-25 13:07:05,967 - remote_connection.py[line:567] - DEBUG: Finished Request
+2023-02-25 13:07:05,968 - login_yi_jia.py[line:66] - DEBUG: say with certainty
+2023-02-25 13:07:08,969 - remote_connection.py[line:480] - DEBUG: DELETE http://127.0.0.1:4723/wd/hub/session/7a4fd0a1-8fe4-42a3-8560-cc6dc2c083a3 {}
+2023-02-25 13:07:11,413 - remote_connection.py[line:567] - DEBUG: Finished Request
